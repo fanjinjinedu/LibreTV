@@ -106,6 +106,10 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
+    iqiyi: {
+        api: 'https://iqiyizyapi.com/api.php/provide/vod',
+        name: '爱奇艺短剧'
+    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
@@ -141,6 +145,14 @@ const API_SITES = {
      shouav: {
         api: 'https://api.souavzy.vip/api.php/provide/vod',
         name: 'soua资源站'
+    },
+     xinba: {
+        api: 'https://xingba222.com/api.php/provide/vod',
+        name: '杏八资源站'
+    },
+    yousu: {
+        api: 'https://yszyw1.top/api.php/provide/vod/?ac=list',
+        name: '优速资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
