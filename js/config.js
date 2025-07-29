@@ -110,9 +110,37 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+    huohua: {
+        api: 'https://cj.huohua.live/api.php/provide/vod',
+        name: '火花资源站'
+    },
+    liangzi: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源站'
+    },
+    yutu: {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: '玉兔源站'
+    },
+    caoliu18: {
+        api: 'https://www.caoliuzyw.com/api.php/provide/vod',
+        name: '草溜资源站'
+    },
+    ck: {
+        api: 'https://ckzy.me/api.php/provide/vod',
+        name: 'CK资源站'
+    },
+    jkun: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod',
+        name: 'jkun资源站'
+    },
+    baiwan: {
+        api: 'https://api.bwzyz.com/api.php/provide/vod',
+        name: '百万资源站'
+    },
+     baiwan: {
+        api: 'https://api.bwzyz.com/api.php/provide/vod',
+        name: '百万资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
