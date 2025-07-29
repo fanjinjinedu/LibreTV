@@ -138,9 +138,9 @@ const API_SITES = {
         api: 'https://api.bwzyz.com/api.php/provide/vod',
         name: '百万资源站'
     },
-     baiwan: {
-        api: 'https://api.bwzyz.com/api.php/provide/vod',
-        name: '百万资源站'
+     shouav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod',
+        name: 'soua资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
